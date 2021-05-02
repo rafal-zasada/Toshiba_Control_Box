@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=5V Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=NetIC2_2 Pin=R23-1
+Added Pin To Net: NetName=GND Pin=R23-2
+Added Member To Class: ClassName=Toshiba_CB_Sheet1 Member=Component C1 Cap1
+Added Member To Class: ClassName=Toshiba_CB_Sheet1 Member=Component R23 Res1
+Added Room: Name=Toshiba_CB_Sheet1

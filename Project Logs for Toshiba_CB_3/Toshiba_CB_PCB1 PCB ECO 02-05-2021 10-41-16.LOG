@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=P20 NewDesignator=P22
+Change Component Designator: OldDesignator=P22 NewDesignator=P20
+Change Net Name : Old Net Name=NetP22_1 New Net Name=NetP20_1
+Added Room: Name=Toshiba_CB_Sheet1

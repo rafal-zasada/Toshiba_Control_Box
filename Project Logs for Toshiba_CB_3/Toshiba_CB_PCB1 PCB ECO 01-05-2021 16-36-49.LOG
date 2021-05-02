@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=GND Pin=P23-1
+Removed Member From Class: ClassName=Toshiba_CB_Sheet1 Member=P23
+Added Room: Name=Toshiba_CB_Sheet1

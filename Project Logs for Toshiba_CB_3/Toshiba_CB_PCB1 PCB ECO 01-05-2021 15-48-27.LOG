@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=PRIM POWER 2 IN Pin=R16-2
+Removed Member From Class: ClassName=Toshiba_CB_Sheet1 Member=R16
+Added Pin To Net: NetName=PRIM POWER 2 IN Pin=C6-1
+Added Pin To Net: NetName=PRIM POWER 2 IN Pin=J1-10
+Added Room: Name=Toshiba_CB_Sheet1

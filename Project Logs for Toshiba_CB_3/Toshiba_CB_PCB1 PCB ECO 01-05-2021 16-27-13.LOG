@@ -1,0 +1,8 @@
+Change Component Designator: OldDesignator=P1 NewDesignator=P22
+Change Component Designator: OldDesignator=P2 NewDesignator=P23
+Change Component Designator: OldDesignator=P16 NewDesignator=P1
+Change Component Designator: OldDesignator=P17 NewDesignator=P2
+Change Net Name : Old Net Name=NetP1_1 New Net Name=NetP22_1
+Added Member To Class: ClassName=Toshiba_CB_Sheet1 Member=Component P22 Pin1
+Added Member To Class: ClassName=Toshiba_CB_Sheet1 Member=Component P23 Pin1
+Added Room: Name=Toshiba_CB_Sheet1

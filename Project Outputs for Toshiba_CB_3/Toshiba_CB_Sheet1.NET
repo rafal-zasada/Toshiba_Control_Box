@@ -1,0 +1,307 @@
+Wire List
+
+<<< Component List >>>
+Cap1                            C1             CAPC2012X94N
+Cap1                            C2             CAPC2012X94N
+Cap1                            C3             CAPC2012X94N
+Cap1                            C4             CAPC2012X94N
+Cap1                            C6             CAPC2012X94N
+Cap1                            C7             CAPC2012X94N
+Cap1                            C8             CAPC2012X94N
+Cap1                            C9             CAPC2012X94N
+DS34C86TM_NOPB                  IC1            SOIC127P600X175-16N
+DS34C86TM_NOPB                  IC2            SOIC127P600X175-16N
+DS34C87TM_NOPB                  IC3            SOIC127P600X175-16N
+D connector 37 way              J1             D connector 37 way
+Pin1                            P1             
+Pin1                            P2             
+Pin1                            P3             
+Pin1                            P4             
+Pin1                            P5             
+Pin1                            P6             
+Pin1                            P7             
+Pin1                            P8             
+Pin1                            P9             
+Pin1                            P10            
+Pin1                            P11            
+Pin1                            P12            
+Pin1                            P13            
+Pin1                            P14            
+Res1                            R1             Res1 0805
+Res1                            R2             Res1 0805
+Res1                            R3             Res1 0805
+Res1                            R4             Res1 0805
+Res1                            R5             Res1 0805
+Res1                            R6             Res1 0805
+Res1                            R7             Res1 0805
+Res1                            R8             Res1 0805
+Res1                            R9             Res1 0805
+Res1                            R10            Res1 0805
+Res1                            R11            Res1 0805
+Res1                            R12            Res1 0805
+Res1                            R13            Res1 0805
+Res1                            R14            Res1 0805
+Res1                            R15            Res1 0805
+Res1                            R16            Res1 0805
+Res1                            R17            Res1 0805
+Res1                            R18            Res1 0805
+Res1                            R19            Res1 0805
+Res1                            R20            Res1 0805
+Res1                            R21            Res1 0805
+Res1                            R22            Res1 0805
+Res1                            R23            Res1 0805
+
+<<< Wire List >>>
+
+  NODE  REFERENCE  PIN #   PIN NAME       PIN TYPE    PART VALUE
+
+[00001] 5V
+        C1         1       1              PASSIVE     Cap1
+        C3         1       1              PASSIVE     Cap1
+        C4         1       1              PASSIVE     Cap1
+        IC1        4       ENABLE_A/C     PASSIVE     DS34C86TM_NOPB
+        IC1        12      ENABLE_B/D     PASSIVE     DS34C86TM_NOPB
+        IC1        16      VCC            PASSIVE     DS34C86TM_NOPB
+        IC2        4       ENABLE_A/C     PASSIVE     DS34C86TM_NOPB
+        IC2        16      VCC            PASSIVE     DS34C86TM_NOPB
+        IC3        4       A/B_CONTROL    PASSIVE     DS34C87TM_NOPB
+        IC3        12      C/D_CONTROL    PASSIVE     DS34C87TM_NOPB
+        IC3        16      VCC            PASSIVE     DS34C87TM_NOPB
+        R22        2       2              PASSIVE     Res1
+
+[00002] BEAM MONITOR
+        J1         18      18             PASSIVE     D connector 37 way
+        P10        1       1              PASSIVE     Pin1
+
+[00003] CATHODE V MON
+        J1         17      17             PASSIVE     D connector 37 way
+        P12        1       1              PASSIVE     Pin1
+
+[00004] FAULT 1 IN
+        IC1        9       INPUTS_D_1     PASSIVE     DS34C86TM_NOPB
+        R13        2       2              PASSIVE     Res1
+
+[00005] FAULT 2 IN
+        IC1        10      INPUTS_D_2     PASSIVE     DS34C86TM_NOPB
+        R14        2       2              PASSIVE     Res1
+
+[00006] GND
+        C1         2       2              PASSIVE     Cap1
+        C3         2       2              PASSIVE     Cap1
+        C4         2       2              PASSIVE     Cap1
+        IC1        8       GND            PASSIVE     DS34C86TM_NOPB
+        IC2        8       GND            PASSIVE     DS34C86TM_NOPB
+        IC3        8       GND            PASSIVE     DS34C87TM_NOPB
+        J1         20      20             PASSIVE     D connector 37 way
+        J1         22      22             PASSIVE     D connector 37 way
+        J1         24      24             PASSIVE     D connector 37 way
+        J1         26      26             PASSIVE     D connector 37 way
+        J1         28      28             PASSIVE     D connector 37 way
+        J1         30      30             PASSIVE     D connector 37 way
+        J1         32      32             PASSIVE     D connector 37 way
+        J1         34      34             PASSIVE     D connector 37 way
+        J1         35      35             PASSIVE     D connector 37 way
+        J1         36      36             PASSIVE     D connector 37 way
+        J1         37      37             PASSIVE     D connector 37 way
+        P9         1       1              PASSIVE     Pin1
+        P11        1       1              PASSIVE     Pin1
+        P13        1       1              PASSIVE     Pin1
+        R23        2       2              PASSIVE     Res1
+
+[00007] GRID WINDOW 1 OUT
+        R3         2       2              PASSIVE     Res1
+
+[00008] GRID WINDOW 2 OUT
+        R4         2       2              PASSIVE     Res1
+
+[00009] GRID WINDOW A OUT
+        IC3        5       CHANNEL_B_OUTPUPASSIVE     DS34C87TM_NOPB
+
+[00010] GRID WINDOW B OUT
+        IC3        6       CHANNEL_B_OUTPUPASSIVE     DS34C87TM_NOPB
+
+[00011] HELIX MONITOR
+        J1         19      19             PASSIVE     D connector 37 way
+        P8         1       1              PASSIVE     Pin1
+
+[00012] NetC2_1
+        C2         1       1              PASSIVE     Cap1
+        J1         8       8              PASSIVE     D connector 37 way
+        R8         1       1              PASSIVE     Res1
+
+[00013] NetC2_2
+        C2         2       2              PASSIVE     Cap1
+        J1         7       7              PASSIVE     D connector 37 way
+        R7         1       1              PASSIVE     Res1
+
+[00014] NetC6_1
+        C6         1       1              PASSIVE     Cap1
+        J1         10      10             PASSIVE     D connector 37 way
+        R16        1       1              PASSIVE     Res1
+
+[00015] NetC6_2
+        C6         2       2              PASSIVE     Cap1
+        J1         9       9              PASSIVE     D connector 37 way
+        R15        1       1              PASSIVE     Res1
+
+[00016] NetC7_1
+        C7         1       1              PASSIVE     Cap1
+        J1         12      12             PASSIVE     D connector 37 way
+        R10        1       1              PASSIVE     Res1
+
+[00017] NetC7_2
+        C7         2       2              PASSIVE     Cap1
+        J1         11      11             PASSIVE     D connector 37 way
+        R9         1       1              PASSIVE     Res1
+
+[00018] NetC8_1
+        C8         1       1              PASSIVE     Cap1
+        J1         14      14             PASSIVE     D connector 37 way
+        R12        1       1              PASSIVE     Res1
+
+[00019] NetC8_2
+        C8         2       2              PASSIVE     Cap1
+        J1         13      13             PASSIVE     D connector 37 way
+        R11        1       1              PASSIVE     Res1
+
+[00020] NetC9_1
+        C9         1       1              PASSIVE     Cap1
+        J1         16      16             PASSIVE     D connector 37 way
+        R14        1       1              PASSIVE     Res1
+
+[00021] NetC9_2
+        C9         2       2              PASSIVE     Cap1
+        J1         15      15             PASSIVE     D connector 37 way
+        R13        1       1              PASSIVE     Res1
+
+[00022] NetIC1_3
+        IC1        3       OUTPUT_A       PASSIVE     DS34C86TM_NOPB
+        R20        1       1              PASSIVE     Res1
+
+[00023] NetIC1_5
+        IC1        5       OUTPUT_C       PASSIVE     DS34C86TM_NOPB
+        R19        1       1              PASSIVE     Res1
+
+[00024] NetIC1_11
+        IC1        11      OUTPUT_D       PASSIVE     DS34C86TM_NOPB
+        R18        1       1              PASSIVE     Res1
+
+[00025] NetIC1_13
+        IC1        13      OUTPUT_B       PASSIVE     DS34C86TM_NOPB
+        R17        1       1              PASSIVE     Res1
+
+[00026] NetIC2_2
+        IC2        2       INPUTS_A_2     PASSIVE     DS34C86TM_NOPB
+        R22        1       1              PASSIVE     Res1
+        R23        1       1              PASSIVE     Res1
+
+[00027] NetIC2_3
+        IC2        3       OUTPUT_A       PASSIVE     DS34C86TM_NOPB
+        R21        1       1              PASSIVE     Res1
+
+[00038] NetIC3_1
+        IC3        1       INPUT_A        PASSIVE     DS34C87TM_NOPB
+        P2         1       1              PASSIVE     Pin1
+
+[00039] NetIC3_7
+        IC3        7       INPUT_B        PASSIVE     DS34C87TM_NOPB
+        P1         1       1              PASSIVE     Pin1
+
+[00043] NetIC3_15
+        IC3        15      INPUT_D        PASSIVE     DS34C87TM_NOPB
+        P3         1       1              PASSIVE     Pin1
+
+[00044] NetJ1_1
+        J1         1       1              PASSIVE     D connector 37 way
+        R1         1       1              PASSIVE     Res1
+
+[00045] NetJ1_2
+        J1         2       2              PASSIVE     D connector 37 way
+        R2         1       1              PASSIVE     Res1
+
+[00046] NetJ1_3
+        J1         3       3              PASSIVE     D connector 37 way
+        R3         1       1              PASSIVE     Res1
+
+[00047] NetJ1_4
+        J1         4       4              PASSIVE     D connector 37 way
+        R4         1       1              PASSIVE     Res1
+
+[00048] NetJ1_5
+        J1         5       5              PASSIVE     D connector 37 way
+        R5         1       1              PASSIVE     Res1
+
+[00049] NetJ1_ 6
+        J1         6       6              PASSIVE     D connector 37 way
+        R6         1       1              PASSIVE     Res1
+
+[00056] NetP4_1
+        P4         1       1              PASSIVE     Pin1
+        R19        2       2              PASSIVE     Res1
+
+[00057] NetP5_1
+        P5         1       1              PASSIVE     Pin1
+        R20        2       2              PASSIVE     Res1
+
+[00058] NetP6_1
+        P6         1       1              PASSIVE     Pin1
+        R17        2       2              PASSIVE     Res1
+
+[00059] NetP7_1
+        P7         1       1              PASSIVE     Pin1
+        R18        2       2              PASSIVE     Res1
+
+[00060] NetP14_1
+        P14        1       1              PASSIVE     Pin1
+        R21        2       2              PASSIVE     Res1
+
+[00061] OP 1 IN
+        IC1        14      INPUTS_B_1     PASSIVE     DS34C86TM_NOPB
+        R11        2       2              PASSIVE     Res1
+
+[00062] OP 2 IN
+        IC1        15      INPUTS_B_2     PASSIVE     DS34C86TM_NOPB
+        R12        2       2              PASSIVE     Res1
+
+[00063] PRE_TRIGGER 1 OUT
+        IC3        13      CHANNEL_D_OUTPUPASSIVE     DS34C87TM_NOPB
+        R5         2       2              PASSIVE     Res1
+
+[00064] PRE_TRIGGER 2 OUT
+        IC3        14      CHANNEL_D_OUTPUPASSIVE     DS34C87TM_NOPB
+        R6         2       2              PASSIVE     Res1
+
+[00065] PRIM POWER 1 IN
+        IC2        1       INPUTS_A_1     PASSIVE     DS34C86TM_NOPB
+        R15        2       2              PASSIVE     Res1
+
+[00066] PRIM POWER 2 IN
+        R16        2       2              PASSIVE     Res1
+
+[00067] SBY 1 IN
+        IC1        6       INPUTS_C_1     PASSIVE     DS34C86TM_NOPB
+        R9         2       2              PASSIVE     Res1
+
+[00068] SBY 2 IN
+        IC1        7       INPUTS_C_2     PASSIVE     DS34C86TM_NOPB
+        R10        2       2              PASSIVE     Res1
+
+[00069] SBY/OP 1 OUT
+        IC3        2       CHANNEL_A_OUTPUPASSIVE     DS34C87TM_NOPB
+        R1         2       2              PASSIVE     Res1
+
+[00070] SBY/OP 2 OUT
+        IC3        3       CHANNEL_A_OUTPUPASSIVE     DS34C87TM_NOPB
+        R2         2       2              PASSIVE     Res1
+
+[00071] TWTHOT_SW
+        J1         21      21             PASSIVE     D connector 37 way
+
+[00072] WARM UP 1 IN
+        IC1        1       INPUTS_A_1     PASSIVE     DS34C86TM_NOPB
+        R7         2       2              PASSIVE     Res1
+
+[00073] WARM UP 2 IN
+        IC1        2       INPUTS_A_2     PASSIVE     DS34C86TM_NOPB
+        R8         2       2              PASSIVE     Res1
+

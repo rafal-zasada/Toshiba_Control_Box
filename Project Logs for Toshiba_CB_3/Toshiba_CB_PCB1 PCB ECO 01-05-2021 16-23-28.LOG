@@ -1,0 +1,39 @@
+Change Component Designator: OldDesignator=P1 NewDesignator=P9
+Change Component Designator: OldDesignator=P2 NewDesignator=P11
+Change Component Designator: OldDesignator=P3 NewDesignator=P13
+Change Component Designator: OldDesignator=P4 NewDesignator=P15
+Change Component Designator: OldDesignator=P5 NewDesignator=P16
+Change Component Designator: OldDesignator=P6 NewDesignator=P17
+Change Component Designator: OldDesignator=P7 NewDesignator=P18
+Change Component Designator: OldDesignator=P8 NewDesignator=P3
+Change Component Designator: OldDesignator=P9 NewDesignator=P4
+Change Component Designator: OldDesignator=P10 NewDesignator=P5
+Change Component Designator: OldDesignator=P11 NewDesignator=P6
+Change Component Designator: OldDesignator=P12 NewDesignator=P7
+Change Component Designator: OldDesignator=P13 NewDesignator=P8
+Change Component Designator: OldDesignator=P14 NewDesignator=P19
+Change Component Designator: OldDesignator=P15 NewDesignator=P21
+Change Component Designator: OldDesignator=P18 NewDesignator=P1
+Change Component Designator: OldDesignator=P19 NewDesignator=P2
+Added Component: Designator=P10(Pin1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P12(Pin1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P14(Pin1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P20(Pin1)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=P10-1
+Added Pin To Net: NetName=GND Pin=P12-1
+Added Pin To Net: NetName=GND Pin=P14-1
+Change Net Name : Old Net Name=NetP4_1 New Net Name=NetP15_1
+Change Net Name : Old Net Name=NetP5_1 New Net Name=NetP16_1
+Change Net Name : Old Net Name=NetP6_1 New Net Name=NetP17_1
+Change Net Name : Old Net Name=NetP7_1 New Net Name=NetP18_1
+Change Net Name : Old Net Name=NetP14_1 New Net Name=NetP19_1
+Change Net Name : Old Net Name=NetP18_1 New Net Name=NetP1_1
+Added Member To Class: ClassName=Toshiba_CB_Sheet1 Member=Component P16 Pin1
+Added Member To Class: ClassName=Toshiba_CB_Sheet1 Member=Component P17 Pin1
+Added Member To Class: ClassName=Toshiba_CB_Sheet1 Member=Component P20 Pin1
+Added Member To Class: ClassName=Toshiba_CB_Sheet1 Member=Component P21 Pin1
+Added Room: Name=Toshiba_CB_Sheet1
