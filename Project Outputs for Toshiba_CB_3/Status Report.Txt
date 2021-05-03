@@ -1,10 +1,12 @@
-Output: WireList Netlist
-Type  : WireListNetlist
+Output: NC Drill Files
+Type  : NC Drill
 From  : Project [Toshiba_CB_3.PrjPcb]
-   Generated File[Toshiba_CB_Sheet1.NET]
+   Generated File[Toshiba_CB_PCB1.TXT]
+   Generated File[Toshiba_CB_PCB1.LDP]
+   Generated File[Toshiba_CB_PCB1.DRR]
 
 
-Files Generated   : 1
+Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 11:56:10 On 01/05/2021
+Finished Output Generation At 17:07:41 On 03/05/2021

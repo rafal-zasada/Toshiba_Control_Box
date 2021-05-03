@@ -1,0 +1,72 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\Projects\Toshiba_CB_5\Project Outputs for Toshiba_CB_3\Pick Place for Toshiba_CB_PCB1.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       03/05/21
+Time:       09:21
+Revision:   ca15dcd82ca5bb3ceb5014d971b0c42eb44d9b14
+Variant:    No variations
+Units used: mil
+
+Designator Comment              Layer    Footprint           Center-X(mil) Center-Y(mil) Rotation Description                                     
+P22        Pin1                 TopLayer pin1                1927.165      976.772       0        ""                                              
+P14        Pin1                 TopLayer pin1                -1929.134     3385.827      0        ""                                              
+P12        Pin1                 TopLayer pin1                -1929.134     2913.386      0        ""                                              
+P10        Pin1                 TopLayer pin1                -1929.134     2451.299      0        ""                                              
+C1         Cap1                 TopLayer CAPC2012X94N        1235.354      2810.630      180      Capacitor                                       
+R23        Res1                 TopLayer Res1_0805           853.465       2850.984      270      "0805 resistor"                                 
+R24        Res1                 TopLayer Res1_0805           1729.331      1219.488      180      "0805 resistor"                                 
+P20        Pin1                 TopLayer pin1                1925.197      1219.488      0        ""                                              
+P2         Pin1                 TopLayer pin1                -1929.134     589.567       0        ""                                              
+P1         Pin1                 TopLayer pin1                -1929.134     1293.898      0        ""                                              
+D1         "D Zener"            TopLayer Diode               -1614.173     944.882       90       "Zener Diode"                                   
+C5         Cap1                 TopLayer CAPC2012X94N        -1259.842     944.882       90       Capacitor                                       
+R22        Res1                 TopLayer Res1_0805           967.244       3105.512      360      "0805 resistor"                                 
+R21        Res1                 TopLayer Res1_0805           1729.331      1457.677      0        "0805 resistor"                                 
+R20        Res1                 TopLayer Res1_0805           1731.299      2165.354      0        "0805 resistor"                                 
+R19        Res1                 TopLayer Res1_0805           1731.299      2402.559      0        "0805 resistor"                                 
+R18        Res1                 TopLayer Res1_0805           1729.331      1692.913      0        "0805 resistor"                                 
+R17        Res1                 TopLayer Res1_0805           1729.331      1929.134      0        "0805 resistor"                                 
+R15        Res1                 TopLayer Res1_0805           853.465       3465.551      270      "0805 resistor"                                 
+R14        Res1                 TopLayer Res1_0805           605.906       3386.811      270      "0805 resistor"                                 
+R13        Res1                 TopLayer Res1_0805           442.520       3386.811      270      "0805 resistor"                                 
+R12        Res1                 TopLayer Res1_0805           285.434       3384.843      270      "0805 resistor"                                 
+R11        Res1                 TopLayer Res1_0805           121.654       3386.811      270      "0805 resistor"                                 
+R10        Res1                 TopLayer Res1_0805           -17.716       3109.252      270      "0805 resistor"                                 
+R9         Res1                 TopLayer Res1_0805           -41.732       3384.843      270      "0805 resistor"                                 
+R8         Res1                 TopLayer Res1_0805           -205.118      3384.843      270      "0805 resistor"                                 
+R7         Res1                 TopLayer Res1_0805           -356.692      3384.843      270      "0805 resistor"                                 
+R6         Res1                 TopLayer Res1_0805           -975.787      3329.331      180      "0805 resistor"                                 
+R5         Res1                 TopLayer Res1_0805           -901.576      3632.879      270      "0805 resistor"                                 
+R4         Res1                 TopLayer Res1_0805           -1059.057     3631.895      270      "0805 resistor"                                 
+R3         Res1                 TopLayer Res1_0805           -1216.537     3631.895      270      "0805 resistor"                                 
+R2         Res1                 TopLayer Res1_0805           -1374.017     3630.910      270      "0805 resistor"                                 
+R1         Res1                 TopLayer Res1_0805           -1531.498     3632.879      270      "0805 resistor"                                 
+P21        Pin1                 TopLayer pin1                -1929.134     3936.024      0        ""                                              
+P19        Pin1                 TopLayer pin1                1925.197      1456.693      0        ""                                              
+P8         Pin1                 TopLayer pin1                1929.134      2873.031      0        ""                                              
+P7         Pin1                 TopLayer pin1                1929.134      3069.882      0        ""                                              
+P6         Pin1                 TopLayer pin1                1929.134      3266.732      0        ""                                              
+P5         Pin1                 TopLayer pin1                1929.134      3463.583      0        ""                                              
+P4         Pin1                 TopLayer pin1                1929.134      3660.433      0        ""                                              
+P3         Pin1                 TopLayer pin1                1929.134      3857.283      0        ""                                              
+P18        Pin1                 TopLayer pin1                1925.197      1692.913      0        ""                                              
+P17        Pin1                 TopLayer pin1                1927.165      1929.134      0        ""                                              
+P16        Pin1                 TopLayer pin1                1927.165      2165.354      0        ""                                              
+P15        Pin1                 TopLayer pin1                1927.165      2401.575      0        ""                                              
+P13        Pin1                 TopLayer pin1                -1929.134     3150.591      180      ""                                              
+P11        Pin1                 TopLayer pin1                -1929.134     2691.535      180      ""                                              
+P9         Pin1                 TopLayer pin1                -1929.134     2245.079      180      ""                                              
+IC3        DS34C87TM_NOPB       TopLayer SOIC127P600X175-16N -1299.213     2952.756      90       "Integrated Circuit"                            
+IC2        DS34C86TM_NOPB       TopLayer SOIC127P600X175-16N 1231.811      3125.591      0        "Integrated Circuit"                            
+IC1        DS34C86TM_NOPB       TopLayer SOIC127P600X175-16N -26.771       2559.055      0        "Integrated Circuit"                            
+C9         Cap1                 TopLayer CAPC2012X94N        433.071       3818.898      180      Capacitor                                       
+C8         Cap1                 TopLayer CAPC2012X94N        218.799       3818.898      180      Capacitor                                       
+C7         Cap1                 TopLayer CAPC2012X94N        4.528         3818.898      180      Capacitor                                       
+C6         Cap1                 TopLayer CAPC2012X94N        -209.744      3818.898      180      Capacitor                                       
+C4         Cap1                 TopLayer CAPC2012X94N        -394.488      2752.832      270      Capacitor                                       
+C3         Cap1                 TopLayer CAPC2012X94N        -1014.173     2748.427      90       Capacitor                                       
+C2         Cap1                 TopLayer CAPC2012X94N        -392.126      3818.898      180      Capacitor                                       
+J1         "D connector 37 way" TopLayer D_connector_37_way  5.709         4176.968      270      "Receptacle Assembly, 37 Position, Right Angle" 
