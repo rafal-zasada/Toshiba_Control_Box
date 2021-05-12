@@ -1,12 +1,10 @@
-Output: NC Drill Files
-Type  : NC Drill
+Output: Cadnetix Netlist
+Type  : CadnetixNetlist
 From  : Project [Toshiba_CB_3.PrjPcb]
-   Generated File[Toshiba_CB_PCB1.TXT]
-   Generated File[Toshiba_CB_PCB1.LDP]
-   Generated File[Toshiba_CB_PCB1.DRR]
+   Generated File[Toshiba_CB_Sheet1.NET]
 
 
-Files Generated   : 3
+Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 20:13:22 On 04/05/2021
+Finished Output Generation At 18:19:23 On 12/05/2021

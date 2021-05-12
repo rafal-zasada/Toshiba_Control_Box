@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=NetP11_1 Pin=P11-1
+Added Pin To Net: NetName=NetP11_1 Pin=R25-2
+Added Net: Name=NetP11_1
+Added Room: Name=Toshiba_CB_Sheet1
