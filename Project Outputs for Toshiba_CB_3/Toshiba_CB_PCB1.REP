@@ -2,32 +2,6 @@
 FileName = Toshiba_CB_PCB1.GBR
 AutoAperture = True
 *************************************************************
-Generating : Top Layer
-      File : Toshiba_CB_PCB1.GTL
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-*************************************************************
-
-*************************************************************
 Generating : Top Solder
       File : Toshiba_CB_PCB1.GTS
 
@@ -51,6 +25,64 @@ Used DCodes :
     D22
     D23
     D24
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Toshiba_CB_PCB1.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D20
+    D21
+    D22
+    D23
+    D24
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Toshiba_CB_PCB1.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : Toshiba_CB_PCB1.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
 *************************************************************
 
 *************************************************************
@@ -91,37 +123,5 @@ Used DCodes :
     D36
     D37
     D38
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : Toshiba_CB_PCB1.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D20
-    D21
-    D22
-    D23
-    D24
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : Toshiba_CB_PCB1.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
 *************************************************************
 
