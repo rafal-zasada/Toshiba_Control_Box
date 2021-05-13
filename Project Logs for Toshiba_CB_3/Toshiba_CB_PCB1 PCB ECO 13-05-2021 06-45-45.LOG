@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=P12-1
+Removed Pin From Net: NetName=NetC10_2 Pin=R16-1
+Removed Pin From Net: NetName=5V Pin=R16-2
+Added Pin To Net: NetName=5V Pin=P12-1
+Added Pin To Net: NetName=GND Pin=R16-1
+Added Pin To Net: NetName=NetC10_2 Pin=R16-2
+Added Room: Name=Toshiba_CB_Sheet1
